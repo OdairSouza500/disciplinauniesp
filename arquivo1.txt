@@ -1,4 +1,3 @@
 Faculdade: Uniesp
 Curso: Ciência da Computação e Sistemas para Internet
-Odair Barreto de Souza
-Tópicos Essenciais para Programação
+Respondendo coisas do Github
